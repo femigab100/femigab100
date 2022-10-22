@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @femigab100
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, I’m Oluwafemi Gabriel
+- 👀 I’m a Frontend Web Developer
+- 🌱 I’m working on improving my stacks....I've mastered HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on different exciting projects
 - 📫 How to reach me ...I'm available on fb@sobowaleoluwafemigabriel, I'm @Desaint on Twitter
 
